@@ -91,20 +91,17 @@ I read this interesting quote the other day:
 * Dahlia (_Coreopsideae Dahlia_)
 
 
+- Calculus
+  - A professor
+  - Has no hair
+  - Often wears green
+- Castafiore 
+  - An opera singer
+  - Has white hair
+  - Is possibly mentally unwell
 
-* Calculus 
- * A professor
- * Has no hair
- * Often wears green
-* Castafiore 
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
 
 
- First list item
-   - First nested list item
-     - Second nested list item
 
 
 1. Cut the cheese
