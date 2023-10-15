@@ -32,7 +32,8 @@ Here's some words about the book _One Hundred Years..._.
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
-Do you want to [see something fun] [a fun place](www.zombo.com)?
+Do you want to [see something fun] [a fun place](www.zombo.com)?  
+
 Well, do I have [the website for you] [another fun place](www.stumbleupon.com)!
 
 
