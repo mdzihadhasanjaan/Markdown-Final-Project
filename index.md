@@ -28,7 +28,7 @@ Here's some words about the book _One Hundred Years..._.
 ## Links
 1.	[Search for it.](www.google.com)
 2.	[You're **really, really** going to want to see this.](www.dailykitten.com)
-3.	####The Latest News from [the BBC](www.bbc.com/news)
+3.	#### The Latest News from [the BBC](www.bbc.com/news)
 4.	Do you want to [see something fun] [a fun place](www.zombo.com)?
 5.	Well, do I have [the website for you] [another fun place](www.stumbleupon.com)!
 
@@ -80,9 +80,13 @@ I read this interesting quote the other day:
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
+
+
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
+
+
 
  * Calculus
 * A professor
@@ -92,6 +96,8 @@ I read this interesting quote the other day:
 * An opera singer
 * Has white hair
 * Is possibly mentally unwell
+
+
 
 1. Cut the cheese
  * Make sure that the cheese is cut into little triangles.
